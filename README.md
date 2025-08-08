@@ -6,9 +6,9 @@ You can add, edit, delete, and mark tasks as complete. The app is styled with re
 
 ## 📸 Screenshots
 ### Desktop View
-![Desktop Screenshot 1](assets/Screenshot1.png)
-![Desktop Screenshot 2](assets/Screenshot2.png)
-![Desktop Screenshot 3](assets/Screenshot3.png)
+![Desktop Screenshot 1](src/assets/Screenshot1.png)
+![Desktop Screenshot 2](src/assets/Screenshot2.png)
+![Desktop Screenshot 3](src/assets/Screenshot3.png)
 ---
 
 ## 📂 Features
